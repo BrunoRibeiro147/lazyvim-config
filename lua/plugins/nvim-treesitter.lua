@@ -11,6 +11,10 @@ return {
       "erlang",
       "html",
       "surface",
+      "go",
+      "gomod",
+      "gowork",
+      "gosum",
     })
   end,
 }
